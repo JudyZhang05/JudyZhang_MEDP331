@@ -1,0 +1,4 @@
+/* NEW */
+li:nth-child(odd){ 
+    color: brown;
+}

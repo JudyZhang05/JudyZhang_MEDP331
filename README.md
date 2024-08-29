@@ -1,5 +1,5 @@
 ##### Published Website: 
-##### Final Project Website: 
+##### Class Website: https://abounding-laser-0da.notion.site/MEDP-33100-Web-Production-2-8bb1e93d7ea14540b79f4bd5e74500f5 
 
 # CUNY HUNTER COLLEGE - MEDP COURSE WEBSITE
 **Spring Term 2024 - MEDP 331 Web Production II**<br>
