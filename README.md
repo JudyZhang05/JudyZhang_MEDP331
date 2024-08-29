@@ -1,1 +1,1 @@
-# JudyZhang_MEDP331
+Web Production II builds upon the tools employed in Web Production I to begin developing dynamic websites and other creative works. Advanced coding methods will be introduced in HTML, JavaScript, JS Libraries, AJAX, PHP, MySQL and XML. Students will develop multiple interactive web projects using a range of methods and tools. The projects will cultivate an understanding of user-centered design and the development of effective websites across multiple genres.
