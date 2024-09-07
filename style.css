@@ -2,3 +2,12 @@
 li:nth-child(odd){ 
     color: brown;
 }
+/* Hover (after?)*/
+.btn#inactive:hover::after{
+    content: "Tooltip?";
+    position:absolute;
+    top: -100%;
+    left: 50%;
+    background-color: black;
+    padding: 20px;
+}

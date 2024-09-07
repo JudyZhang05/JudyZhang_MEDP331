@@ -81,7 +81,7 @@ li:nth-child(odd):not(.lean){
 }
 .lean{
     padding: 20% 10%;
-    background-image: url("../00_assets/lean.svg");
+    background-image: url("../00_assets/hw1/lean.svg");
     background-size: cover;
     background-position: top;
 }
