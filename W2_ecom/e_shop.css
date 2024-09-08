@@ -117,26 +117,30 @@ header{
     background-color: rgba(0, 0, 0, 0.205);
     width: 60%;
     top: 100vh;
+    display:flex;
+    align-items: start;
+    color: white;
 }
 .about_image{
     grid-area: 1/1/1/1;
     background-image: url("../00_assets/hw2/bookcandle.jpg");
+
     background-size: cover;
     background-attachment: fixed;
-    display:flex;
-    align-items: start;
 }
 .smaller{
     font-size: .5em;
 }
-.about_image h1{
+#b_grid h1{
     font-family:"DM Serif Display", system-ui;
     color: white;
     font-style: italic;
     font-size: 5em;
-    margin: 20% 5%;
     line-height: 60%;
     background-color: black;
+    margin: 20% 5%;
+    position: sticky;
+    top: 10%;
 }
 .about_two{
     border-top: solid 1px;
