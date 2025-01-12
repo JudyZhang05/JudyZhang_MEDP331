@@ -1,4 +1,4 @@
-##### Published Website: 
+##### Published Website: https://judyzhang05.github.io/JudyZhang_MEDP331/
 ##### Class Website: https://abounding-laser-0da.notion.site/MEDP-33100-Web-Production-2-8bb1e93d7ea14540b79f4bd5e74500f5 
 
 # CUNY HUNTER COLLEGE - MEDP COURSE WEBSITE
